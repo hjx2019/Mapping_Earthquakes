@@ -18,3 +18,12 @@ All learning materials are not in branches, but in main branch's history. 13.6 a
 
 
 ![image](https://user-images.githubusercontent.com/48306359/158706368-912ab132-57f7-44c4-b7c6-ced3f4426c32.png)
+
+
+![image](https://user-images.githubusercontent.com/48306359/158706478-8de9b54e-1de3-4600-aa51-e48ec2a67ef0.png)
+
+
+![image](https://user-images.githubusercontent.com/48306359/158706530-c2e1520b-1587-4991-948c-1f2fdb338e99.png)
+
+
+![image](https://user-images.githubusercontent.com/48306359/158706577-498c99ae-1070-4f35-9028-16d05c1a6ff4.png)
